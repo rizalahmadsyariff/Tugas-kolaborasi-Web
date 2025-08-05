@@ -1,7 +1,13 @@
 Berikut ini merupakan roadmap pembangunan website untk MBG Desa Air Kuning Kec. Jembrana Kab. Jembrana Bali:
 1. HTML
+   - HTML 5
 2. CSS
+   - tailwind
+   - Bootstap
 3. Javascript
+   - NodeJS
+   - Vue
+   - Typescript
 4. PHP
 5. MySQL
 
